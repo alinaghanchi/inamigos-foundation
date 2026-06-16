@@ -15,7 +15,7 @@ function App() {
       <nav className="navbar">
         <div className="logo">
         <div className="logo">
-          <img src="/images/logo.jpg" alt="InAmigos Logo" />cv c  ccccv``
+          <img src="/images/logo.jpg" alt="InAmigos Logo" />
   <span>InAmigos Foundation</span>
 </div>
         
@@ -128,12 +128,12 @@ function App() {
         <h2>Our Gallery</h2>
 
         <div className="gallery-grid">
-   <img src="/images/gallery1.jpg" alt="Gallery 1" />
-<img src="/images/gallery2.jpg" alt="Gallery 2" />
-<img src="/images/gallery3.jpg" alt="Gallery 3" />
-<img src="/images/gallery4.jpg" alt="Gallery 4" />
-<img src="/images/gallery6.jpg" alt="Gallery 6" />
-<img src="/images/gallery7.jpg" alt="Gallery 7" />
+   <img src="/images/gallery 1.jpg" alt="Gallery 1" />
+<img src="/images/gallery 2.jpg" alt="Gallery 2" />
+<img src="/images/gallery 3.jpg" alt="Gallery 3" />
+<img src="/images/gallery 4.jpg" alt="Gallery 4" />
+<img src="/images/gallery 6.jpg" alt="Gallery 6" />
+<img src="/images/gallery 7.jpg" alt="Gallery 7" />
         </div>
       </section>
 <section className="testimonials">

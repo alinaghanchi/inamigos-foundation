@@ -26,5 +26,4 @@ https://inamigos-alina.netlify.app/
 
 ## Developer
 Alina Ghanchi
-Alina Ghanchi
 

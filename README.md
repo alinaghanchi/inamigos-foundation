@@ -117,4 +117,4 @@ Intern – InAmigos Foundation
 
 This project was developed as part of the InAmigos Foundation Internship Program with the objective of supporting NGO digital transformation and improving community engagement through technology.
 
-⭐ If you found this project useful, consider giving it a star.
+
